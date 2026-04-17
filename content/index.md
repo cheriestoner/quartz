@@ -1,3 +1,7 @@
+## Live projects
+1. [Literature review](https://docs.google.com/document/d/1q8vtrXEUzSj74BiH5w-5vWLx8TjprnLTtfYLOi7rVhk/edit?usp=sharing)
+2. [Real-time spectrographic interface](https://cheriestoner.github.io/Seeing-Voice/)
+## Weekly report series
 Jan 2026
 
 [[Week 1 Jan 30]]
@@ -22,3 +26,4 @@ April 2026
 
 [[Week 11 Apr 10]]
 
+[[Week 12 Apr 17]]
