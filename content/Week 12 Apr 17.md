@@ -1,4 +1,4 @@
-[[2026-04-17 Seeing Sound ENES Team]]
+[[2026-04-17 Seeing Sound ENES Team Meeting]]
 ## Pilot study
 under Seeing Sound – MITI
 ### Labvanced experimental setup
