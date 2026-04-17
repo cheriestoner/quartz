@@ -39,7 +39,7 @@ Reading theories about sensory substitution (and augmentation), and developments
 	- **Theoretical basis:** brain plasticity, neural plasticity
 	- **Limitation:** training is slow and intensive
 2. **Expansion and refinement** (90s-00s-today)
-	surrounding *the vOICe project* (started in the 90s by *Peter B.L. Meijer*, still ongoing till today, as a research network https://www.seeingwithsound.com)
+	 *the vOICe technology* prototyped created in the 90s by *Peter B.L. Meijer* (still ongoing till today, as a global distributed network https://www.seeingwithsound.com)
 	- **Methodology:** Improved early methods by integrating intuitive, crossmodal mapping -> sensory substitution works without prior training, for *static* information https://www.nature.com/articles/srep15628
 	- **Theoretical basis:** 
 		- Supramodal processing / representation: certain brain areas can extract abstract information (like shapes or spatial layouts) independent of the sensory channel
@@ -54,7 +54,8 @@ Reading theories about sensory substitution (and augmentation), and developments
 		- *even extended to robot multimodal learning & cognitive development* https://cyber.felk.cvut.cz/research/groups-teams/humanoids/
 
 ***General take-away:***
-- Almost all sensory substitution research focused on "compensating/augmenting/expanding" **vision** (by tactile, auditory input) for the blind. None have touched "compensating/augmenting/expanding" **audition**
+- The vOICe has been a baseline/paradigm in the field of sensory substitution
+- Almost all sensory substitution research focused on "compensating/augmenting/expanding" **vision** (by tactile, auditory input) for spatial perception for the blind. None have touched "compensating/augmenting/expanding" **audition**
 - Modern developments focus more on learnability (intuitiveness by natural crossnmodal correspondences) and widely uses the theoretical framework of **sensorimotor contingency theory**
 # AI-human comparison study
 (Didn't have time to start it yet)
