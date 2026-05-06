@@ -13,7 +13,7 @@ Goals:
 4. Literature review
 ---
 # 1 Stimuli set analysis
-[[Beyond speech dataset statistics]]
+[[Beyond speech stimuli set]]
 **Key observations:**
 - Categories unbalances (most are nonverbal vocalisations)->stimuli set should be balanced
 - Duration: singing is 14s long (avg)->long spectrogram
