@@ -51,4 +51,3 @@ still reading the book to look for hints about what "the **auditory object** tha
 
 spectrograms preserves the acoustic structure faithfully, but what is missing (socially relevant info, contexts) and what might be redundant for voice perception?
 - from (Daunay et al., 2025 jasa), "laughter acoustics (fundamental frequency, acoustic energy, and temporal regularities) can encode contextual information that is detectable by both machine algorithms and human listeners, but not with high precision", but is the acoustic structure of a single *isolated* vocalisation enough for determining the context? and how can the real-time visualization enhance the affective communication in context?
-
