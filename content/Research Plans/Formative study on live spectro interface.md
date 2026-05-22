@@ -38,6 +38,8 @@ Suggested vocalisations (encourage free exploration too):
 - Singing
 - Speech
 
+play with params, explorative
+
 Interview questions about their user experience follows.
 ## Task 2 — Vocal reconstruction (three conditions)
 Participants reconstruct a target nonverbal vocalisation (from a curated stimuli set?) under three conditions.
