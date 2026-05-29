@@ -1,6 +1,8 @@
 ## Live links
 1. [Literature review](https://docs.google.com/document/d/1q8vtrXEUzSj74BiH5w-5vWLx8TjprnLTtfYLOi7rVhk/edit?usp=sharing)
 2. [Real-time spectrographic interface](https://cheriestoner.github.io/Seeing-Voice/)
+## Ongoing study plans
+1. [[Formative interviews on live spectro interface]]
 ## Weekly report series
 Jan 2026
 
@@ -35,3 +37,6 @@ April 2026
 May 2026
 
 [[Week 15 May 7]]
+[[Week 16 May 15]]
+[[Week 17 May 22]]
+[[Week 18 May 29]]
