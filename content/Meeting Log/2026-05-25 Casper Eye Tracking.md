@@ -2,6 +2,9 @@
 aliases:
 date: 2026-05-25
 tags:
+  - Labvanced
+  - Eye-tracking
+  - Study-design
 attendees:
 ---
 1. Eye tracker setup, virtual chinrest

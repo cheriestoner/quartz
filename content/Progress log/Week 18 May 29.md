@@ -1,4 +1,6 @@
-Meeting [[2026-05-26 MITI]]
+Meetings
+[[2026-05-25 Casper Eye Tracking]]
+[[2026-05-26 MITI]]
 
 ---
 # Labvanced study pilot round 2
