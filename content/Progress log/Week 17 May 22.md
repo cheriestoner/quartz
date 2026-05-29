@@ -11,3 +11,4 @@ Todo for next week
 - MITI meeting next Tuesday
 - Data analysis by next Tuesday
 - Lit review by next Wednesday
+- Pay the 20 participants on Prolific?
