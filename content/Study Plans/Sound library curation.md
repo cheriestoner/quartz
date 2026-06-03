@@ -6,11 +6,9 @@ Goal: All-purpose sound library with spectrograms
 	- for training models, for creative tools, for perceptual experiments, or for exploring representations?
 	- For Christophe's IMLEX student project about machine learning for classification: Emmalie's dataset
 ---
-
-Andrey's two links of non-verbal vocalisations. It's important not to mix up spontaneous and volitional ones:
-- "Spontaneous vocalizations: https://cogsci.se/publications/2017_corpus.html"
-- "There are plenty more around at the lab, eg Kasia's and Aitana's collections and the audio from our Beyond Speech paper: https://osf.io/a6bw5/, though most are not spontaneous."
-
+ Sources from Andrey:
+- Spontaneous vocalizations: https://cogsci.se/publications/2017_corpus.html
+- Beyond Speech paper: https://osf.io/a6bw5/, most are not spontaneous.
 ---
 ## Sound library of non-verbal vocalisations
 for both DHH and normally hearing people
