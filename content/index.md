@@ -1,9 +1,10 @@
 ## Live links
 1. [Literature review](https://docs.google.com/document/d/1q8vtrXEUzSj74BiH5w-5vWLx8TjprnLTtfYLOi7rVhk/edit?usp=sharing)
-2. [Real-time spectrographic interface](https://cheriestoner.github.io/Seeing-Voice/)
+2. [Live spectrographic interface](https://cheriestoner.github.io/Seeing-Voice/)
+	[[Live interface dev]]
 ## Ongoing study (plans)
-1. [[Publish/Study Plans/Static spectro + eye tracking/index|index]]
-2. [[Publish/Study Plans/Live interface + interview/index|index]]
+1. [[Publish/Studies/Static spectro + eye tracking/index|index]]
+2. [[Publish/Studies/Live interface + interview/index|index]]
 ## Weekly report series
 Jan 2026
 [[Week 1 Jan 30]]
